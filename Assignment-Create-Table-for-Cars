@@ -1,0 +1,17 @@
+Assignment: Create the cars list
+
+Note: for this assignment, you should create a new repository in both Git and GitHub and place your work in the repository
+
+Create a table that will hold a list of the cars you've owned currently and in the past.
+
+The table should have these columns:
+
+1. An [integer] primary key; unique for each one
+2. Make: [string 30] the manufacturer
+3. Model: [string 30] the particular car for that manufacturer
+4. Trim: [string 10] LX, EX, etc. (if exists)
+5. Year: [integer] The year of the vehicle
+6. IsSedan: [boolean] True or False
+7. PurchasePrice: [decimal 2 decimal positions] currency; how much you paid (estimated if you don't remember)
+
+Once the table is created, insert as many of your cars as you can remember
